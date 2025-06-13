@@ -4,6 +4,8 @@ API responsável pela comunicação criptografada com o webhook Meta durante a i
 
 WhatsApp Flows é uma maneira de construir interações estruturadas para mensagens de negócios. Ele permite que as empresas definam, configurem e personalizem mensagens com interações ricas, proporcionando aos clientes uma forma mais estruturada de comunicação.
 
+---
+
 ### Status
 
 Projeto concluido ✅
